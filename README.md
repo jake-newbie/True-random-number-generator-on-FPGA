@@ -1,1 +1,1 @@
-# True-random-number-generator-on-FPGA
+# True-random-number-generator-connected-to-FPGA
