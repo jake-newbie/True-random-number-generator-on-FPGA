@@ -1,0 +1,50 @@
+Test Data File:C:/Users/DELL/Desktop/random result/random number 15 (recode) attack.txt
+
+
+Type of Test                                      	P-Value             	Conclusion
+01. Frequency (Monobit) Test                      	0.0                 	Non-Random
+02. Frequency Test within a Block                 	0.0                 	Non-Random
+03. Runs Test                                     	0.0                 	Non-Random
+04. Test for the Longest Run of Ones in a Block   	1.7841024262091002e-20	Non-Random
+05. Binary Matrix Rank Test                       	0.0012185336051253098	Non-Random
+06. Discrete Fourier Transform (Spectral) Test    	8.10473279716079e-86	Non-Random
+07. Non-overlapping Template Matching Test        	0.0                 	Non-Random
+08. Overlapping Template Matching Test            	0.5758421264756896  	Random
+09. Maurer's "Universal Statistical" Test         	0.0                 	Non-Random
+10. Linear Complexity Test                        	0.01711380897869065 	Random
+11. Serial Test:
+													0.0                 	Non-Random
+													0.0                 	Non-Random
+12. Approximate Entropy Test                      	0.0                 	Non-Random
+13. Cumulative Sums Test (Forward)                	0.0                 	Non-Random
+14. Cumulative Sums Test (Backward)               	0.0                 	Non-Random
+15. Random Excursions Test:
+				State     	Chi Squared         	P-Value             	Conclusion
+				-4        	8.639096454908493   	0.12435459608202304 	Random
+				-3        	4.484988235294118   	0.4818944699328114  	Random
+				-2        	2.049382716049383   	0.8422706756722971  	Random
+				-1        	8.705882352941176   	0.12138642366723176 	Random
+				+1        	5.647058823529412   	0.3420896204603435  	Random
+				+2        	0.9208424110384894  	0.9686944205698119  	Random
+				+3        	1.3771294117647053  	0.9267986262408829  	Random
+				+4        	2.8425900972633955  	0.7242382009612665  	Random
+16. Random Excursions Variant Test:
+				State     	COUNTS              	P-Value             	Conclusion
+				-9.0      	22                  	0.724132540388919   	Random
+				-8.0      	23                  	0.7305279235155224  	Random
+				-7.0      	21                  	0.6619392498319511  	Random
+				-6.0      	20                  	0.6087275094705292  	Random
+				-5.0      	13                  	0.3959510250893422  	Random
+				-4.0      	14                  	0.35930065390257304 	Random
+				-3.0      	20                  	0.4476990724652936  	Random
+				-2.0      	21                  	0.3627265064850981  	Random
+				-1.0      	27                  	0.3959510250893422  	Random
+				+1.0      	38                  	0.6276258050283594  	Random
+				+2.0      	39                  	0.7262861488788049  	Random
+				+3.0      	40                  	0.7448816195459561  	Random
+				+4.0      	57                  	0.2917898625310458  	Random
+				+5.0      	77                  	0.08218051485581004 	Random
+				+6.0      	97                  	0.02125026992370214 	Random
+				+7.0      	110                 	0.010583547137015172	Random
+				+8.0      	106                 	0.02417054717454526 	Random
+				+9.0      	119                 	0.012419330651552265	Random
